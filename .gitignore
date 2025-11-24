@@ -1,0 +1,8 @@
+# Lokale IDE-Konfiguration
+.idea/
+
+# Temporäre oder abgeleitete Dateien, die nicht in die Versionskontrolle gehören
+Der
+*.pyc
+__pycache__/
+venv/
