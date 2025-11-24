@@ -9,3 +9,30 @@ __pycache__/
 venv/
 env/
 conda/
+
+# zusätzlich laut INSTALLATION_Anleitung_Students.md
+
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+*.egg-info/
+dist/
+build/
+
+# PyCharm
+
+
+# Data & Models
+*.pth
+*.pkl
+data/raw/
+data/processed/
+saved_models/*.pth
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
