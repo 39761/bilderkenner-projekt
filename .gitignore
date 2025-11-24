@@ -4,5 +4,8 @@
 # Temporäre oder abgeleitete Dateien, die nicht in die Versionskontrolle gehören
 Der
 *.pyc
+*.pyd
 __pycache__/
 venv/
+env/
+conda/
