@@ -1,29 +1,17 @@
-# Lokale IDE-Konfiguration
-.idea/
-
-# Temporäre oder abgeleitete Dateien, die nicht in die Versionskontrolle gehören
-Der
-*.pyc
-*.pyd
-__pycache__/
-venv/
-env/
-conda/
-
-# zusätzlich laut INSTALLATION_Anleitung_Students.md
-
 # Python
+__pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-
+env/
+venv/
 *.egg-info/
 dist/
 build/
 
 # PyCharm
-
+.idea/
 
 # Data & Models
 *.pth
