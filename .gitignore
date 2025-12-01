@@ -24,3 +24,6 @@ saved_models/*.pth
 .DS_Store
 Thumbs.db
 *.swp
+
+# Ignoriere heruntergeladene CIFAR-10 Daten
+data/data/
